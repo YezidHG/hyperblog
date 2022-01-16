@@ -3,3 +3,4 @@ esto es un archivo de texto
 para probar un repositorio
 y hacer la práctica de freddy vega 
 esta es una nueva clase
+y ahora es la misma clase pero otro renglón
